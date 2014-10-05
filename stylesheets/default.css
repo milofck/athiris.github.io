@@ -32,6 +32,9 @@ The Foundation
 	box-sizing: border-box;
 	word-wrap: break-word
 }
+h3{
+    color:#630063;
+}
 
 .true-tabs {
   position: relative;
