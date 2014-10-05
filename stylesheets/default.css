@@ -44,7 +44,7 @@ h3, h2, h1{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeSpeed;
-  color: #630063;
+  color: ##DBC7DB;
   width: 90%; /* Modify width here */
   margin: 0 auto
 }
