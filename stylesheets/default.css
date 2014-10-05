@@ -113,18 +113,6 @@ h3, h2, h1{
     user-select: text
 	/**/
 }
-.founder{
-    color:#AA0000;
-}
-.developer{
-    color:#FFAA00;   
-}
-.lead-builder{
-    color:#00AAAA;	
-}
-.builder{
-    color:#55FFFF;
-}
 
 /***************************
 ****************************
@@ -363,6 +351,20 @@ Typography Set
     margin-right: 10px;
     font-size: 1em /* Icon will always be same size as text */
 }
+.founder{
+    color:#AA0000;
+}
+.developer{
+    color:#FFAA00;   
+}
+.lead-builder{
+    color:#00AAAA;	
+}
+.builder{
+    color:#55FFFF;
+}
+
+
 /**/
 
 /***************************
